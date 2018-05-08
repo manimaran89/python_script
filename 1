@@ -1,0 +1,12 @@
+def sum_of_digit(n):
+    tot=0
+    while(n>0):
+        dig=n%10
+        tot=tot+dig
+        n=n//10
+n=int(input("Enter a number:"))
+val=sum_of_digit(n)
+if len(str(val)) != 1:
+    val=sum_of_digit(val)
+print("The total sum of digits is:",val)
+
