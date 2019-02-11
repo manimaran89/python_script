@@ -6,5 +6,5 @@ def sum(a,b):
     p = a+b
     print p
 
-#sum(14,76)
+#sum(14,76,12)
 sum(21,24)

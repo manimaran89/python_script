@@ -1,4 +1,4 @@
-data_list = [-5, -23, 5, 0, 23, -6, 23, 67]
+data_list = [-5, -23, 5, 0, 23, -6, 23, ]
 new_list = []
 
 while data_list:

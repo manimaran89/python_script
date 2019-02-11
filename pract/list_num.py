@@ -1,7 +1,7 @@
 a=[1,2,3,4,5,6]
 # d={1:5,2:4..}
 d={}
-num=4
+num=0
 count = 0
 for i in a:
     for j in a:
