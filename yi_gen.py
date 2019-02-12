@@ -6,5 +6,6 @@ def putNumbers(n):
         if j%7==0:
             yield j
 
+#To print the numbers
 for i in putNumbers(100):
     print i
